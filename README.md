@@ -1,5 +1,7 @@
 # Achieve: GitHub Achievements Booster
 
+[![CI](https://github.com/Bekzhanym/achieve/actions/workflows/ci.yml/badge.svg)](https://github.com/Bekzhanym/achieve/actions/workflows/ci.yml)
+
 Небольшой публичный репозиторий, созданный для получения достижений GitHub (Pull Shark, YOLO, Quickdraw) 🚀.
 
 ## Что внутри
