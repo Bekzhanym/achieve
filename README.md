@@ -17,4 +17,6 @@ python src/main.py
 - Открыть PR из ветки `feature/readme-update` и слить без ревью (YOLO + Pull Shark)
 - Создать и быстро закрыть issue (Quickdraw)
 
+> Статус: автоматизация через GitHub CLI настроена.
+
 
